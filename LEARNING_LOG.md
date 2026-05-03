@@ -20,7 +20,7 @@ This file contains my day-wise learning progress in Offensive Security.
 
 ## Day 1 - 3 May 2026
 
-*(আজকের লেখা এখানে আসবে)*
+*(আজকের লেখা এখানে আসব)*
 
 **What I Learned:**
 - 
