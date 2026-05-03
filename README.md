@@ -12,4 +12,4 @@ Here I will document:
 - Write-ups of rooms and machines
 - My progress over time
 
-**📖 Main Learning Log:** (LEARNING_LOG.md)
+**📖 Main Learning Log:** LEARNING_LOG.md
