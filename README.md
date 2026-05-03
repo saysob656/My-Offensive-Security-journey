@@ -4,12 +4,12 @@
 **Age:** 20  
 **Goal:** Go from complete beginner to professional level in Offensive Security
 
-This repository is my personal documentation of learning **Offensive Security** from zero.
+This repository contains my complete learning journey — from absolute zero to advanced.
 
-Here I will regularly share:
-- What I learn every day
-- Notes and summaries
-- Screenshots of rooms/machines
-- My progress and writeups
+Here I will document:
+- Everything I learn day by day
+- Notes, summaries, and screenshots
+- Write-ups of rooms and machines
+- My progress over time
 
 **📖 Main Learning Log:** (LEARNING_LOG.md)
