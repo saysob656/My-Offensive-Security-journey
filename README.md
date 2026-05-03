@@ -2,8 +2,14 @@
 
 **Started:** 3 May 2026  
 **Age:** 20  
-**Goal:** Become a Professional in Offensive Security
+**Goal:** Go from complete beginner to professional level in Offensive Security
 
-This repository contains my complete learning journey — from complete beginner to advanced level.
+This repository is my personal documentation of learning **Offensive Security** from zero.
 
-**Main Learning Log:** (LEARNING_LOG.md)
+Here I will regularly share:
+- What I learn every day
+- Notes and summaries
+- Screenshots of rooms/machines
+- My progress and writeups
+
+**📖 Main Learning Log:** (LEARNING_LOG.md)
