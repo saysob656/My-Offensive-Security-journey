@@ -18,7 +18,7 @@ This file contains my day-wise learning progress in Offensive Security.
 ### Thoughts
 I had already completed the "Introduction to Cyber Security" module earlier. Today I started my documented journey with networking. Shared my progress on LinkedIn and Twitter.
 
-**Status:** Day 2 Completed ✅
+**Status:** Day 1Completed ✅
 
 ---
 
