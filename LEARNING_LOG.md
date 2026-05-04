@@ -36,3 +36,18 @@ This file contains my day-wise learning progress in Offensive Security.
 - Small progress but staying consistent
 
 **Status:** Day 2 Completed ✅
+
+---
+
+## Day 3 - 4 May 2026
+
+**What I Learned:**
+- How DNS works in depth (resolution process, records, hierarchy)
+- OSI Model (7 layers and their functions)
+
+**Notes:**
+- Gave very short time today but still learned something new
+- Focused on DNS deep dive and OSI Model
+- No room completed today
+
+**Status:** Day 3 Completed ✅
