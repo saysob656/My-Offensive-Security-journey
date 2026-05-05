@@ -51,3 +51,25 @@ This file contains my day-wise learning progress in Offensive Security.
 - No room completed today
 
 **Status:** Day 3 Completed ✅
+
+---
+
+## Day 4 - 5 May 2026
+
+**What I Learned:**
+- OSI Model in depth (all 7 layers and their functions)
+- TCP and UDP protocols
+- TCP/IP Three-Way Handshake
+- Firewall basics
+- Ports 101
+- DNS in detail
+
+**Notes:**
+- Completed 4 TryHackMe rooms:
+  - OSI Model
+  - Packets & Frames
+  - Extending your Network
+  - DNS in Detail
+- Very productive day with strong networking concepts
+
+**Status:** Day 4 Completed ✅
