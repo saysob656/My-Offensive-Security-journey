@@ -73,6 +73,7 @@ This file contains my day-wise learning progress in Offensive Security.
 - Very productive day with strong networking concepts
 
 **Status:** Day 4 Completed ✅
+
 ---
 <br>
 
