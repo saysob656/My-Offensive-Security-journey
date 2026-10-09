@@ -73,7 +73,10 @@ This file contains my day-wise learning progress in Offensive Security.
 - Very productive day with strong networking concepts
 
 **Status:** Day 4 Completed ✅
+---
+<br>
 
+> ⚠️ **[System Reboot: Fought through the DDoS of distractions and laziness. Vision recalibrated. Resuming the grind.]**
 ---
 ## Day 5 - 09 Oct 26
 
