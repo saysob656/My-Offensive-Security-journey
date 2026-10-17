@@ -79,5 +79,5 @@ This file contains my day-wise learning progress in Offensive Security.
 
 > ⚠️ **[System Reboot: Fought through the DDoS of distractions and laziness. Vision recalibrated. Resuming the grind.]**
 ---
-## Day 5 - 09 Oct 26
+## Day 5 - 17 Oct 26
 
