@@ -79,5 +79,20 @@ This file contains my day-wise learning progress in Offensive Security.
 
 > ⚠️ **[System Reboot: Fought through the DDoS of distractions and laziness. Vision recalibrated. Resuming the grind.]**
 ---
-## Day 5 - 17 Oct 26
+### Day 5 - 25 Oct 2026
 
+**What I Learned:**
+- Recapped previous networking concepts (OSI Model, TCP/UDP, IP, and DNS).
+- Completed all 5 rooms of the TryHackMe Pre Security Module 2:
+  1. Inside a Computer System
+  2. Computer Types
+  3. Client-Server Basics
+  4. [4th Room-er nam]
+  5. [5th Room-er nam]
+
+**Notes:**
+- Started the session just to review previous notes and break the procrastination loop.
+- Caught the "Flow State" and ended up completing the entire module!
+- The mental block is completely gone. System is fully online and ready for the next phase.
+
+**Status:** Day 5 Completed ✅
