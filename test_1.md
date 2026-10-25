@@ -4,7 +4,7 @@
 ---
 
 <details>
-<summary><b>Day 1 | 02 May 2026 — Networking Basics</b></summary>
+<summary><b>Day 1 | 02 May 2026 — Intro to Networking Fundamentals</b></summary>
 <br>
 
 - **Rooms:** What is Networking? (TryHackMe)
@@ -13,7 +13,7 @@
 </details>
 
 <details>
-<summary><b>Day 2 | 03 May 2026 — LAN & Topologies</b></summary>
+<summary><b>Day 2 | 03 May 2026 — Exploring LAN & IP Classes</b></summary>
 <br>
 
 - **Rooms:** Intro to LAN (TryHackMe)
@@ -22,7 +22,7 @@
 </details>
 
 <details>
-<summary><b>Day 3 | 04 May 2026 — Deep Dive Theory</b></summary>
+<summary><b>Day 3 | 04 May 2026 — DNS & OSI Model Theory</b></summary>
 <br>
 
 - **Rooms:** (Self-study, no rooms completed)
@@ -31,7 +31,7 @@
 </details>
 
 <details>
-<summary><b>Day 4 | 05 May 2026 — Protocols & Ports</b></summary>
+<summary><b>Day 4 | 05 May 2026 — TCP/IP, Firewalls & Ports</b></summary>
 <br>
 
 - **Rooms:** OSI Model, Packets & Frames, Extending your Network, DNS in Detail (TryHackMe)
