@@ -24,21 +24,12 @@
 <br>
 
 <details>
-<summary><b>Day 4 | 05 May 2026 — TCP/IP, Firewalls & Ports</b></summary>
+<summary><b>Day 1 | 02 May 2026 — Intro to Networking Fundamentals</b></summary>
 <br>
 
-- **Rooms:** OSI Model, Packets & Frames, Extending your Network, DNS in Detail (TryHackMe)
-- **Concepts:** TCP/UDP, 3-Way Handshake, Firewalls, Ports 101
-- **Notes:** Very productive day with strong networking concepts fully cleared.
-</details>
-
-<details>
-<summary><b>Day 3 | 04 May 2026 — DNS & OSI Model Theory</b></summary>
-<br>
-
-- **Rooms:** (Self-study, no rooms completed)
-- **Concepts:** DNS hierarchy & resolution, OSI Model (7 layers)
-- **Notes:** Gave very short time today, but focused heavily on deep theory.
+- **Rooms:** What is Networking? (TryHackMe)
+- **Concepts:** IP Addresses, IPv4 vs IPv6, NAT
+- **Notes:** Started my documented journey with networking fundamentals. Small but consistent progress.
 </details>
 
 <details>
@@ -51,10 +42,19 @@
 </details>
 
 <details>
-<summary><b>Day 1 | 02 May 2026 — Intro to Networking Fundamentals</b></summary>
+<summary><b>Day 3 | 04 May 2026 — DNS & OSI Model Theory</b></summary>
 <br>
 
-- **Rooms:** What is Networking? (TryHackMe)
-- **Concepts:** IP Addresses, IPv4 vs IPv6, NAT
-- **Notes:** Started my documented journey with networking fundamentals. Small but consistent progress.
+- **Rooms:** (Self-study, no rooms completed)
+- **Concepts:** DNS hierarchy & resolution, OSI Model (7 layers)
+- **Notes:** Gave very short time today, but focused heavily on deep theory.
+</details>
+
+<details>
+<summary><b>Day 4 | 05 May 2026 — TCP/IP, Firewalls & Ports</b></summary>
+<br>
+
+- **Rooms:** OSI Model, Packets & Frames, Extending your Network, DNS in Detail (TryHackMe)
+- **Concepts:** TCP/UDP, 3-Way Handshake, Firewalls, Ports 101
+- **Notes:** Very productive day with strong networking concepts fully cleared.
 </details>
