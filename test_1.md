@@ -46,3 +46,12 @@
 > WARNING: AFK streak detected. 
 > Bypassing distractions... 
 > System reboot successful. Resuming grind.
+```
+<details open>
+<summary><b>Day 5 | 25 Oct 2026 — Module 2 Cleared</b></summary>
+<br>
+
+- **Rooms:** Inside a Computer System, Computer Types, Client-Server Basics, [4th Room-er Nam], [5th Room-er Nam] (TryHackMe)
+- **Concepts:** Recapped OSI, TCP/UDP, IP, and DNS. Learned internal hardware, form factors, and client-server architecture.
+- **Notes:** Started the session just to review previous notes and break the procrastination loop. Caught the "Flow State" and ended up completing the entire module! The mental block is completely gone. System is fully online.
+</details>
