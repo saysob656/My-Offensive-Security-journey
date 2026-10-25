@@ -1,0 +1,48 @@
+# 💻 Offensive Security Log
+> Tracking my progress toward Cloud & AI Penetration Testing.
+
+---
+
+<details>
+<summary><b>Day 1 | 02 May 2026 — Networking Basics</b></summary>
+<br>
+
+- **Rooms:** What is Networking? (TryHackMe)
+- **Concepts:** IP Addresses, IPv4 vs IPv6, NAT
+- **Notes:** Started my documented journey with networking fundamentals. Small but consistent progress.
+</details>
+
+<details>
+<summary><b>Day 2 | 03 May 2026 — LAN & Topologies</b></summary>
+<br>
+
+- **Rooms:** Intro to LAN (TryHackMe)
+- **Concepts:** IP Classes, Subnetting, MAC, ARP, Client-Server/P2P, DNS, DHCP
+- **Notes:** Continuing basics for a strong cybersecurity foundation.
+</details>
+
+<details>
+<summary><b>Day 3 | 04 May 2026 — Deep Dive Theory</b></summary>
+<br>
+
+- **Rooms:** (Self-study, no rooms completed)
+- **Concepts:** DNS hierarchy & resolution, OSI Model (7 layers)
+- **Notes:** Gave very short time today, but focused heavily on deep theory.
+</details>
+
+<details>
+<summary><b>Day 4 | 05 May 2026 — Protocols & Ports</b></summary>
+<br>
+
+- **Rooms:** OSI Model, Packets & Frames, Extending your Network, DNS in Detail (TryHackMe)
+- **Concepts:** TCP/UDP, 3-Way Handshake, Firewalls, Ports 101
+- **Notes:** Very productive day with strong networking concepts fully cleared.
+</details>
+
+<br>
+
+```bash
+[ root@system:~ ]# ./reboot.sh
+> WARNING: AFK streak detected. 
+> Bypassing distractions... 
+> System reboot successful. Resuming grind.
