@@ -4,6 +4,15 @@
 ---
 
 <details open>
+<summary><b>Day 6 | 26 Oct 2026 — OS Basics Module Cleared</b></summary>
+<br>
+
+- **Rooms:** Operating Systems: Introduction, Windows Basics, Linux CLI Basics, Windows CLI Basics, Operating System Security (TryHackMe)
+- **Concepts:** Core OS concepts, navigating Windows and Linux via CLI, and fundamental OS security principles.
+- **Notes:** The momentum is real! Knocked out another entire module (Module 3) in one sitting. Getting highly comfortable with the terminal/CLI, which is a major step forward for the long-term vision.
+</details>
+
+<details>
 <summary><b>Day 5 | 25 Oct 2026 — Pre-Security Module 2 Cleared</b></summary>
 <br>
 
