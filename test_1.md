@@ -4,7 +4,7 @@
 ---
 
 <details open>
-<summary><b>Day 6 | 26 Oct 2026 — OS Basics Module Cleared</b></summary>
+<summary><b>Day 6 | 26 Oct 2026 — Pre-Security Module 3 Cleared</b></summary>
 <br>
 
 - **Rooms:** Operating Systems: Introduction, Windows Basics, Linux CLI Basics, Windows CLI Basics, Operating System Security (TryHackMe)
