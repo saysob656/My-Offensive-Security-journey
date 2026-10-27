@@ -2,8 +2,16 @@
 > Tracking my progress toward Cloud & AI Penetration Testing.
 
 ---
-
 <details open>
+<summary><b>Day 7 | 27 Oct 2026 — Starting Pre-Security Module 4</b></summary>
+<br>
+
+- **Rooms:** Data Representation, Data Encoding, Python: Simple Demo (TryHackMe)
+- **Concepts:** Understanding how data is represented and encoded at the machine level, plus an introduction to basic Python scripting.
+- **Notes:** Energy was a bit low today after two massive marathon sessions, but still showed up and knocked out 3 rooms. Consistency over intensity. Keeping the streak alive—no zero days!
+</details>
+
+<details>
 <summary><b>Day 6 | 26 Oct 2026 — Pre-Security Module 3 Cleared</b></summary>
 <br>
 
