@@ -3,7 +3,7 @@
 
 ---
 <details open>
-<summary><b>Day 7 | 27 Oct 2026 — Starting Pre-Security Module 4</b></summary>
+<summary><b>Day 7 | 27 Oct 2026 — Pre-Security Module 4 Starting</b></summary>
 <br>
 
 - **Rooms:** Data Representation, Data Encoding, Python: Simple Demo (TryHackMe)
